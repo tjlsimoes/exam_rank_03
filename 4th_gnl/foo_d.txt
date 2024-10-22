@@ -1,0 +1,2 @@
+Hello! I'm exactly 42 bytes and no \n1234
+Now I have a line break!

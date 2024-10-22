@@ -1,0 +1,5 @@
+Hello! I'm a multiline file
+with less than 42 bytes.
+That is: per line.
+Hell yeah!
+No ending line break.

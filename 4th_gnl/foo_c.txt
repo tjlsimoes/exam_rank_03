@@ -1,0 +1,1 @@
+Hi! I'm less than 42 chars w/out /n.\n
